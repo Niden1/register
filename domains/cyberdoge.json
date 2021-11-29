@@ -1,1 +1,9 @@
-cyberdoge.is-a.dev
+{
+  "owner": {
+    "username": "CyberDoge
+    "email": "hello@cyberdoge.ml"
+  },
+  "record": {
+    "CNAME": "43773cc2-9ac5-4aff-bbc7-3a89707b701d.id.repl.co"
+  }
+}
